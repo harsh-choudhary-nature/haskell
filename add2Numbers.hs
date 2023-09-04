@@ -1,3 +1,8 @@
+{-  PROBLEM STATEMENT
+You are given two lists representing two non-negative integers. Add the two numbers and return the sum as a list.
+
+-}
+
 --use :! followed by shell commands to run any shell command in ghci
 
 --pad the list with leading 0's to achieve a desired length
